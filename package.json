@@ -1,5 +1,5 @@
 {
-  "name": "childProcess-wrapper",
+  "name": "childProcess",
   "version": "0.0.1",
   "description": "a wrapper around a child process generator",
   "main": "app.js",

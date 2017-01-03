@@ -1,0 +1,20 @@
+{
+  "name": "childProcess-wrapper",
+  "version": "0.0.1",
+  "description": "a wrapper around a child process generator",
+  "main": "app.js",
+  "dependencies": {
+    "tree-kill": "^1.0.0"
+  },
+  "scripts": {
+
+  },
+  "keywords": [
+    "generic",
+    "nodejs",
+    "scripts",
+    "helpers"
+  ],
+  "author": "codenamesrcl",
+  "license": "ISC"
+}
